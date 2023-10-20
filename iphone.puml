@@ -18,6 +18,11 @@ note top of AparelhoTelefonico
   Interface encarregada de implementar
   a funcionalidade de um telefone.
 end note
+note top of Vídeo
+  Classe responsável por 
+  armazenar informações 
+  das músicas.
+end note
 
 note top of Musica
   Classe responsável por 
